@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nombre_contacto">35sp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="telefono_contacto">22sp</dimen>
+    <dimen name="margin_right_telefono">10dp</dimen>
+    <dimen name="mail_contacto">22sp</dimen>
+    <dimen name="margin_right_mail">10dp</dimen>
+    <dimen name="margin_top_mail">15dp</dimen>
+    <dimen name="radio">4dp</dimen>
+    <dimen name="nombre_cv">20sp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="card_grid_contacto_height">170dp</dimen>
+    <dimen name="img_foto_height">130dp</dimen>
+    <dimen name="img_bone">27dp</dimen>
+    <dimen name="padding_card_pet">6dp</dimen>
+    <dimen name="card_foto_width">350dp</dimen>
+    <dimen name="card_foto_height">380dp</dimen>
+    <dimen name="card_foto_foto">320dp</dimen>
+    <dimen name="tv_likes_foto">30sp</dimen>
+    <dimen name="img_bone_foto">50dp</dimen>
+</resources>
